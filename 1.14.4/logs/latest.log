@@ -1,0 +1,91 @@
+[13:16:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:16:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:16:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:16:06] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:16:06] [Server thread/INFO]: Loading properties
+[13:16:06] [Server thread/INFO]: Default game type: SURVIVAL
+[13:16:06] [Server thread/INFO]: Generating keypair
+[13:16:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:16:07] [Server thread/INFO]: Using default channel type
+[13:16:13] [Server thread/INFO]: Preparing level "world"
+[13:16:13] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:16:14] [Server thread/INFO]: Loaded 6 recipes
+[13:16:15] [Server thread/INFO]: Loaded 811 advancements
+[13:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[13:16:28] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:28] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:28] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[13:16:29] [Server thread/INFO]: Preparing spawn area: 63%
+[13:16:29] [Server thread/INFO]: Time elapsed: 13864 ms
+[13:16:29] [Server thread/INFO]: Done (16.502s)! For help, type "help"
+[13:16:43] [User Authenticator #1/INFO]: UUID of player Mau741 is 897dbe69-3f7a-4ac4-b62f-ceaee7f6dda4
+[13:16:43] [Server thread/INFO]: Mau741[/127.0.0.1:58520] logged in with entity id 239 at (212.55930770788692, 12.0, 59.986667696781666)
+[13:16:43] [Server thread/INFO]: Mau741 joined the game
+[13:16:44] [User Authenticator #2/INFO]: UUID of player YuWilky is e4423a0d-c426-435d-8e86-4f586f891507
+[13:16:44] [Server thread/INFO]: YuWilky[/0:0:0:0:0:0:0:1:58521] logged in with entity id 241 at (212.806399203594, 14.0, 0.8812542747342229)
+[13:16:44] [Server thread/INFO]: YuWilky joined the game
+[13:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[13:21:34] [Server thread/WARN]: Mau741 moved wrongly!
+[13:23:51] [Server thread/INFO]: Mau741 has made the advancement [Diamonds!]
+[13:24:04] [Server thread/INFO]: YuWilky lost connection: Disconnected
+[13:24:04] [Server thread/INFO]: YuWilky left the game
+[13:24:04] [Server thread/WARN]: handleDisconnection() called twice
+[13:24:11] [User Authenticator #3/INFO]: UUID of player YuWilky is e4423a0d-c426-435d-8e86-4f586f891507
+[13:24:11] [Server thread/INFO]: YuWilky[/0:0:0:0:0:0:0:1:58527] logged in with entity id 1963 at (186.6897609694456, 19.024424088213678, 20.86132795450317)
+[13:24:11] [Server thread/INFO]: YuWilky joined the game
+[13:25:16] [Server thread/INFO]: <Mau741> 213 0
+[13:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[13:29:52] [Server thread/INFO]: Mau741 has made the advancement [We Need to Go Deeper]
+[13:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16742ms or 334 ticks behind
+[13:31:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[13:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
+[13:32:47] [Server thread/WARN]: YuWilky moved too quickly! 1.22061176231756,-10.80652611000901,0.027368787174151255
+[13:32:49] [Server thread/WARN]: YuWilky moved too quickly! 0.0,-11.627681020464777,0.0
+[13:34:51] [Server thread/INFO]: YuWilky has made the advancement [Sweet Dreams]
+[13:39:55] [Server thread/INFO]: YuWilky has made the advancement [We Need to Go Deeper]
+[13:39:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[13:42:08] [Server thread/WARN]: Mau741 moved too quickly! 0.0,10.150000345705593,0.0
+[13:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4968ms or 99 ticks behind
+[13:47:59] [Server thread/WARN]: YuWilky moved too quickly! 0.0,-11.19886200217774,-0.01851793080181041
+[14:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[14:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[14:07:17] [Server thread/WARN]: Mau741 moved too quickly! 5.771234546565893,2.249187078744683,7.981348076464023
+[14:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[14:07:18] [Server thread/WARN]: YuWilky moved wrongly!
+[14:07:18] [Server thread/WARN]: YuWilky moved wrongly!
+[14:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[14:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[14:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[14:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5168ms or 103 ticks behind
+[14:30:00] [Server thread/INFO]: YuWilky lost connection: Disconnected
+[14:30:00] [Server thread/INFO]: YuWilky left the game
+[14:32:39] [Server thread/WARN]: Mau741 moved too quickly! 10.095858583005878,1.4938648978937863,-0.15077667679027762
+[14:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8053ms or 161 ticks behind
+[14:33:54] [Server thread/INFO]: Mau741 lost connection: Disconnected
+[14:33:54] [Server thread/INFO]: Mau741 left the game
